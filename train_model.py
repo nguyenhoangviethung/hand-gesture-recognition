@@ -1,4 +1,3 @@
-# train_seq_model.py
 import numpy as np, tensorflow as tf, os
 from sklearn.utils.class_weight import compute_class_weight
 
